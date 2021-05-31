@@ -4,9 +4,9 @@ An AddToCard Amazon selenium project has feature to search an desire item throug
 
 ## Features :
 - Search an Item
-- Open Item
+- Open an Item
 - Add to cart
-- Assert if added to the cart
+- Assert if item added to the cart
 - Page Object style mechanism
 
 ## Tools and Technologies
